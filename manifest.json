@@ -1,0 +1,23 @@
+{
+  "name": "نجار الرياض المحترف",
+  "short_name": "نجار الرياض",
+  "description": "تفصيل وصيانة الأثاث وغرف النوم والديكورات الخشبية بالرياض",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#2b1810",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "images/logo_result.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    },
+    {
+      "src": "images/logo_result.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
