@@ -13,10 +13,10 @@
     phoneLocal: '0570053235',
     phoneInternational: '966570053235',
     devPhone: '966578539687',
-    googleAdsId: 'AW-xxxxxxxxxxxxx',
-    callConversionLabel: 'xxxxxxxxxxxxxxxxx',
-    waConversionLabel: 'xxxxxxxxxxxxxx',
-    formConversionLabel: 'xxxxxxxxxxxxxxxxxxx',
+    googleAdsId: 'AW-18533496308',
+    callConversionLabel: 'sSNzCPqn1K4dEPTruoVF',
+    waConversionLabel: '1kLsCP2n1K4dEPTruoVF',
+    formConversionLabel: 'nhy0CMjA1K4dEPTruoVF',
     brandName: 'نجار الرياض المحترف'
   };
 
